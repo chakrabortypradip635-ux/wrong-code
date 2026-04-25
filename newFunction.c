@@ -1,9 +1,6 @@
 #include <stdio.h>
-int printValue(){
-int a = 10;
- printf("%d",a);
-}
+
 int main(){
-    printValue();
+    printf("Noice");
     return 0;
 }
